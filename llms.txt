@@ -1,0 +1,25 @@
+# ORSPEX
+
+> ORSPEX builds practical Windows software for small businesses.
+> Two products: ORSPEX Business Suite (paid ERP) and ORSPEX PDF Compressor (free).
+
+## Products
+
+- [ORSPEX Business Suite](https://orspex.netlify.app/#features): All-in-one ERP for small businesses. Accounting, inventory, manufacturing, sales, purchasing, VAT. Windows 10/11. One-time $50. Runs offline.
+- [ORSPEX PDF Compressor](https://orspex.netlify.app/#free-tool): Free Windows tool to compress PDF files locally. No uploads, no accounts. Open source.
+
+## Key facts
+
+- Business Suite price: $50 one-time
+- No subscriptions, no per-user fees
+- Windows 10 / 11 (64-bit)
+- Runs offline — no internet required
+- Data stays on the user's PC
+- 30-day money-back guarantee
+- Free updates for 12 months
+
+## Contact
+
+- Email: orpexexitus@gmail.com
+- WhatsApp: +971 50 124 5199
+- Source (PDF Compressor): https://github.com/orpexexitus-maker/orspex-pdf-compressor
